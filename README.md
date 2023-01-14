@@ -15,3 +15,5 @@ The yellow line is an extra return loop that I installed.  I ran it from the far
 ## Control
 Obviously, in this case, it doesnt make since to run the pump 24/7.  It really only benfits when I needed hot water in the masterbath room.  Too compensate for this I wanted to control/schedule this system through Home Assistant:
 
+![This is an image](https://github.com/dresslerc/esphome-circulation-pump-controller/blob/main/ha_pump.png)
+
