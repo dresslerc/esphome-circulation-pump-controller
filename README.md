@@ -12,4 +12,6 @@ A hot water circulation pump is a device used in plumbing systems to circulate h
 
 The yellow line is an extra return loop that I installed.  I ran it from the farthest bathroom, through the attic back to the water heater.  Without this return loop, it would take my shower about 5 minutes to get hot.  Now with pump, when I turn my shower on, it takes about 10 seconds.
 
+## Control
+Obviously, in this case, it doesnt make since to run the pump 24/7.  It really only benfits when I needed hot water in the masterbath room.  Too compensate for this I wanted to control/schedule this system through Home Assistant:
 
