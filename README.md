@@ -17,3 +17,12 @@ Obviously, in this case, it doesnt make since to run the pump 24/7.  It really o
 
 ![This is an image](https://github.com/dresslerc/esphome-circulation-pump-controller/blob/main/ha_pump.png)
 
+Currently when the system is on, it runs for 3 minutes, every 18 minutes.  This logic is done in ESPHome on a ESP32.  
+
+## Features
+- Turn on/off from Home Assistant (this also includes scheduling it)
+- Run once - ability to run the pump once.
+- Motion Controlled - I placed a motion sensor (z-wave) in my bathroom, when motion is triggered and the pump hasnt run in 15 minutes, it'll run again (but only if motion triggered)
+- Motion Controlled Once - When the motion sensor detects motion, run the pump once, and turn off Motion Controlled Once.
+- Freeze Protection - Since the return line runs through the attic.  I wanted to ensure if its cold outside, it runs the pump every 15 minutes.
+
