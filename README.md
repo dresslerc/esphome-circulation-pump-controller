@@ -7,7 +7,9 @@ This project describes how to build a Circulation Pump Controller using ESPHome 
 A hot water circulation pump is a device used in plumbing systems to circulate hot water from a water heater to the various fixtures and appliances in a building. This can include things like sinks, showers, and bathtubs. The pump is typically installed in the hot water line, and its purpose is to ensure that hot water is readily available to all fixtures and appliances, without the need to wait for the water to be heated. This can save energy and reduce the wait time for hot water. This system uses a ESP32 with ESPHome and Home Assistant to control when the pump is active, further increasing energy efficiency.
 
 
-## What the Plumbing Looks Like
+## Plumbing
 ![This is an image](https://github.com/dresslerc/esphome-circulation-pump-controller/blob/main/circpump.png)
+
+The yellow line is an extra return loop that I installed.  I ran it from the farthest bathroom, through the attic back to the water heater.  Without this return loop, it would take my shower about 5 minutes to get hot.  Now with pump, when I turn my shower on, it takes about 10 seconds.
 
 
