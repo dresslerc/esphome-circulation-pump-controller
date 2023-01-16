@@ -40,6 +40,8 @@ What it looks like:
 
 ![This is an image](https://github.com/dresslerc/esphome-circulation-pump-controller/blob/main/controlbox.png)
 
+![This is an image](https://github.com/dresslerc/esphome-circulation-pump-controller/blob/main/controlboxcover.png)
+
 - Pump - KOLERFLO 115V Water Recirculating Pump - https://www.amazon.com/gp/product/B07F25CH5R/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 
 - Digital Valve - Motorized Ball Valve - https://www.amazon.com/gp/product/B06X99PHJJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
