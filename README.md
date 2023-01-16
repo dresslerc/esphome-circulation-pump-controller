@@ -26,7 +26,7 @@ Currently when the system is on, it runs for 3 minutes, every 18 minutes.  This 
 - Motion Controlled Once - When the motion sensor detects motion, run the pump once, and turn off Motion Controlled Once.
 - Freeze Protection - Since the return line runs through the attic.  I wanted to ensure if its cold outside, it runs the pump every 15 minutes.
 
-## Hardware
+## Hardware - Control System
 
 - LILYGO TTGO T-Relay - https://www.amazon.com/LILYGO-T-Relay-Wireless-Development-Control/dp/B09XWWYK4V/ref=sr_1_2?crid=1UW20B1XXXDN1&keywords=lilygo%2Brelay&qid=1673831677&sprefix=lilygo%2Brelay%2Caps%2C117&sr=8-2&th=1
 
@@ -41,6 +41,8 @@ What it looks like:
 ![This is an image](https://github.com/dresslerc/esphome-circulation-pump-controller/blob/main/controlbox.png)
 
 ![This is an image](https://github.com/dresslerc/esphome-circulation-pump-controller/blob/main/controlboxcover.png)
+
+## Hardware - Pump Valve
 
 - Pump - KOLERFLO 115V Water Recirculating Pump - https://www.amazon.com/gp/product/B07F25CH5R/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 
