@@ -48,3 +48,10 @@ What it looks like:
 
 - Digital Valve - Motorized Ball Valve - https://www.amazon.com/gp/product/B06X99PHJJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
 
+## Control Logic
+
+### Pump
+The pump runs with 110v.  Simply give it voltage and the pump runs.  We simply use 1 relay of the relay board to turn the pump on/off.
+
+### Valve
+The Valve opens with 12v.  If you flip the polarity of the wires, then the valve closes.  It takes about 5 seconds to open/close at 12v.  We use 2 relays of the relay board to control the valve.
