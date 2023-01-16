@@ -38,7 +38,7 @@ Currently when the system is on, it runs for 3 minutes, every 18 minutes.  This 
 
 What it looks like:
 
-![This is an image](https://github.com/dresslerc/esphome-circulation-pump-controller/blob/main/Screenshot 2023-01-15 at 8.19.08 PM.png)
+![This is an image](https://github.com/dresslerc/esphome-circulation-pump-controller/blob/main/controlbox.png)
 
 
 
