@@ -36,3 +36,9 @@ Currently when the system is on, it runs for 3 minutes, every 18 minutes.  This 
 
 - Power Supply (110vac to 12vdc) - https://www.amazon.com/gp/product/B074DV7ZKS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
+What it looks like:
+
+![This is an image](https://github.com/dresslerc/esphome-circulation-pump-controller/blob/main/Screenshot 2023-01-15 at 8.19.08 PM.png)
+
+
+
