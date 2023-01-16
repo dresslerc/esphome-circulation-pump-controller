@@ -26,3 +26,13 @@ Currently when the system is on, it runs for 3 minutes, every 18 minutes.  This 
 - Motion Controlled Once - When the motion sensor detects motion, run the pump once, and turn off Motion Controlled Once.
 - Freeze Protection - Since the return line runs through the attic.  I wanted to ensure if its cold outside, it runs the pump every 15 minutes.
 
+## Hardware
+
+- LILYGO TTGO T-Relay - https://www.amazon.com/LILYGO-T-Relay-Wireless-Development-Control/dp/B09XWWYK4V/ref=sr_1_2?crid=1UW20B1XXXDN1&keywords=lilygo%2Brelay&qid=1673831677&sprefix=lilygo%2Brelay%2Caps%2C117&sr=8-2&th=1
+
+- Enclosure - https://www.amazon.com/gp/product/B07S75TV3V/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+
+- Breaker - https://www.amazon.com/gp/product/B09F5Z2ZX3/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&th=1
+
+- Power Supply (110vac to 12vdc) - https://www.amazon.com/gp/product/B074DV7ZKS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
